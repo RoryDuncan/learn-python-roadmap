@@ -2,7 +2,7 @@
 A roadmap for learning python for general usage and Data Science.
 Not intended for programming beginners.
 
-Estimating an initial 10 hours of study per week. The numbers following every ordered list item is it's expected time.
+Estimating an initial 10 hours of study per week.
 
 ### Week 1
 
