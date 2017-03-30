@@ -1,5 +1,6 @@
-# learn-python-roadmap
-A roadmap for learning python for general usage, and Data Science.
+# Learn Python, a roadmap
+A roadmap for learning python for general usage and Data Science.
+Not inteded for programming beginners.
 
 Estimating an initial 10 hours of study per week. The numbers following every ordered list item is it's expected time.
 
@@ -17,8 +18,9 @@ Estimating an initial 10 hours of study per week. The numbers following every or
 
 1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
 2. [ ] Read Lean Python, Chapters 8-11
-5. [ ] Solve three python challanges which are '`8kyu`'
-4. [ ] Choose and complete a project from the projects list.
+3. [ ] Solve three python challanges which are '`8kyu`'
+4. [ ] Install a library using pip.
+5. [ ] Choose and complete a project from the projects list.
 
 ## Projects
 
