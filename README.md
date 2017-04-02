@@ -12,7 +12,7 @@ If you know programming already, **skip week 0**.
 If starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&mdash;use them as an oppurtunity for review.
 
 1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
-2. [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+2. [ ] Work through the contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ### Week 1
 
