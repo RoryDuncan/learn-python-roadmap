@@ -8,6 +8,7 @@ A roadmap for learning the python language, and then focusing on Data Science.
 ### Week 0
 
 If you know programming already, **skip week 0**.
+
 If starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&mdash;use them as an oppurtunity for review.
 
 1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
