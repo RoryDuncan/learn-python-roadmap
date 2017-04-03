@@ -1,5 +1,5 @@
 # Learn Python, a roadmap
-A roadmap for learning the python language, and then focusing on Data Science.
+A roadmap for learning the python language, eventually focusing on Data Science.
 
 [Disclaimer](http://i.imgur.com/GDc1hYw.png)
 
