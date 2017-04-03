@@ -29,8 +29,10 @@ If starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&
 
 1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
 2. [ ] Read Lean Python, Chapters 8-11
-3. [ ] Install a library using pip.
-4. [ ] Choose and complete a project from the projects list.
+3.  [ ] Read [Seemingly Inverse Logic](http://lucumr.pocoo.org/2011/7/9/python-and-pola/#seemingly-inverse-logic). 
+  Article gives insight and reasoning behind some of python's peculiarities. 
+4. [ ] Install a library using pip.
+5. [ ] Choose and complete a project from the projects list.
 
 ### Week 3
 
