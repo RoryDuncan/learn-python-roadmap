@@ -18,14 +18,13 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 
 ### Week 1
 
-1. [ ] 
-2. [ ] Read Lean Python, Chapters 1-2
-3. [ ] Install Python 3 / configure local develpment environment
-4. [ ] Read Lean Python, Chapters 3-6
-5. [ ] Sign up for CodeWars.com
-6. [ ] Solve three python challanges which are '`8kyu`'
-7. [ ] Read Lean Python, Chapters 6-8
-8. [ ] Read [Comparison of Python v2 vs v3 from python.org](https://wiki.python.org/moin/Python2orPython3)
+1. [ ] Read Lean Python, Chapters 1-2
+2. [ ] Install Python 3 / configure local develpment environment
+3. [ ] Read Lean Python, Chapters 3-6
+4. [ ] Sign up for CodeWars.com
+5. [ ] Solve three python challanges which are '`8kyu`'
+6. [ ] Read Lean Python, Chapters 6-8
+7. [ ] Read [Comparison of Python v2 vs v3 from python.org](https://wiki.python.org/moin/Python2orPython3)
 
 ### Week 2
 
