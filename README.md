@@ -9,14 +9,16 @@ A roadmap for learning the python language, and then focusing on Data Science.
 
 If you know programming already, **skip week 0**.
 
-If starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&mdash;use them as an oppurtunity for review.
+You can `clone` or `fork` this repository to use it as a checklist; tracking progress as you go.
+
+If you are starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&mdash;use them as an oppurtunity for review.
 
 1. [ ] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
 2. [ ] Work through the contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ### Week 1
 
-1. [ ] If desired, create a Github and fork / clone this repository and to use it as checklist
+1. [ ] 
 2. [ ] Read Lean Python, Chapters 1-2
 3. [ ] Install Python 3 / configure local develpment environment
 4. [ ] Read Lean Python, Chapters 3-6
