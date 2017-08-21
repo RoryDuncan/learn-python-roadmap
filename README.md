@@ -1,5 +1,8 @@
+### Note: Moving to a new repository: [`learning-roadmaps`](https://github.com/RoryDuncan/learning-roadmaps)
+
 # Learn Python, a roadmap
 A roadmap for learning the python language, eventually focusing on Data Science.
+
 
 [Disclaimer](http://i.imgur.com/GDc1hYw.png)
 
