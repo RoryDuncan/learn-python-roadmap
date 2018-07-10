@@ -22,7 +22,7 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 ### Week 1
 
 1. [ ] Read Lean Python, Chapters 1-2
-2. [ ] Install Python 3 / configure local develpment environment
+2. [ ] Install Python 3 / configure local development environment
 3. [ ] Read Lean Python, Chapters 3-6
 4. [ ] Sign up for CodeWars.com
 5. [ ] Attempt to solve one-to-three python challanges which are either `7kyu` or `8kyu`
@@ -49,7 +49,10 @@ Project Week
 
 ### Week 4
 
-To be added.
+_Challenges Week._
+
+1. [ ] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
+2. [ ] Choose and complete a project from the projects list.
 
 ## Projects
 
