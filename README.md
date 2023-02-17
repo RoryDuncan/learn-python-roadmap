@@ -69,3 +69,4 @@ Want to add a project? Open a PR!
 - [Learn Python in X Minutes](https://learnxinyminutes.com/docs/python3/)
 - :star: [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_tools_for_learning_python)
 - [Project Mega List](https://github.com/karan/Projects)
+- [Python Developer Roadmap](https://roadmap.sh/python)
